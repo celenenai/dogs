@@ -1,5 +1,9 @@
-.dog {background-image: url(https://i1.wp.com/worldcatcomedy.com/wp-content/uploads/2020/03/maxresdefault-63.jpg?fit=1200%2C675&ssl=1);
+{background-image: url(https://i1.wp.com/worldcatcomedy.com/wp-content/uploads/2020/03/maxresdefault-63.jpg?fit=1200%2C675&ssl=1);
 background-repeat: no-repeat;
 bagckground-attachment: fixed;
 background-size: cover;
+}
+
+.dog {
+  border: double;
 }
