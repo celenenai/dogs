@@ -2,14 +2,17 @@ h1 {
   text-align: center;
   font-size: 100px;
   font-family: Chalkduster;
+  color: #2B8530;
 }
 h2 {
   text-align: center;
   font-size: 50px;
   font-family: American Typewriter;
+  color: #2B8485;
 }
 p{
   text-align: center;
   font-size: 35px;
   font-family: Gill Sans;
+  color: #852B39;
 }
