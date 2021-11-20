@@ -10,9 +10,12 @@ h2 {
   font-family: American Typewriter;
   color: #2B8485;
 }
-p{
+p {
   text-align: center;
   font-size: 35px;
   font-family: Gill Sans;
   color: #852B39;
+}
+img {
+  width: 40%;
 }
