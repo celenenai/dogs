@@ -17,5 +17,6 @@ p {
   color: #852B39;
 }
 img {
-  width: 40%;
-}
+  width: 65%;
+  border-radius: 1rem;
+}  
