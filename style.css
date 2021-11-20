@@ -21,3 +21,7 @@ img {
   border-radius: 1rem;
   class: center;
 }  
+a {
+  margin-right: 2rem;
+  font-size: 50px;
+}
